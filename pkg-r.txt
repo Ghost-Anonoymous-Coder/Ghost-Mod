@@ -1,0 +1,8 @@
+┌────────────────────────────────────────────────────────────────────┐
+│  📱 TERMUX (ANDROID) PRE-REQUISITES                                │
+├────────────────────────────────────────────────────────────────────┤
+│  Before running pip, execute these commands to support Pillow:     │
+│                                                                    │
+│  pkg update && pkg upgrade                                         │
+│  pkg install libjpeg-turbo libpng python ndk-sysroot clang make     │
+└────────────────────────────────────────────────────────────────────┘
