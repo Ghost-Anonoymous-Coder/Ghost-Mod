@@ -67,4 +67,7 @@
 3. Launch the master script: `python ghost_mod.py`
 4. I use my own methods to protect my codes.
 5. Run( python pylauncher.dex
+6. Make sure to purchase a subscription.
+7. Its not much but we do need support to fund our projects.
+   Contact Me On Telegram:  https://t.me/ModifiedMinds
 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
