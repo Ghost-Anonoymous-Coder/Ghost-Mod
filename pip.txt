@@ -1,0 +1,5 @@
+# ─── GHOST-MOD EXTERNAL DEPENDENCIES ──────────────────────────────
+# Install using: pip install -r pip.txt
+
+colorama==0.4.6
+pillow==10.4.0
