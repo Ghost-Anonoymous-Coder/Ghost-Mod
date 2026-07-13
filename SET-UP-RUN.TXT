@@ -19,7 +19,8 @@
 
 ┌────────────────────────────────────────────────────────────────────┐
 │  📦 STEP 3: PILLOW FAILSAFE ENVIRONMENT FIX                         │
-├────────────────────────────────────────────────────────────────────┤
+
+────────────────────────┤
 │  If regular pip install fails on Pillow, force compilation using   │
 │  explicit external library flags mapped to Termux paths:          │
 │                                                                    │
@@ -30,8 +31,12 @@
 
 ┌────────────────────────────────────────────────────────────────────┐
 │  🚀 STEP 4: RUN GHOST-MOD ENGINE                                   │
-├────────────────────────────────────────────────────────────────────┤
+├───────────────────├─────────────────────
+Place files in the root of your storage 
+phone storage or portable storage |
+
+open your terminal cd to your storage ────────────────────────────────────────────────────────────────────────┤
 │  Launch the primary shell wrapper:                                 │
 │                                                                    │
-│  python main.py                                                    │
+│  python ghostm.py                                                    │
 └────────────────────────────────────────────────────────────────────┘
