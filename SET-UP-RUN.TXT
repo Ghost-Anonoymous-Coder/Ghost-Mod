@@ -14,7 +14,7 @@
 │  Pull down the script files from your repository:                  │
 │                                                                    │
 │  git clone https://github.com          │
-│  cd Ghost-Mod                                                      │
+│  cd Python_Launcher_Advance                                                     │
 └────────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────────────────────────────────────────────┐
